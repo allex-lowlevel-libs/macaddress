@@ -1,0 +1,31 @@
+{
+  "name": "allex_macaddresslowlevellib",
+  "version": "1.0.0",
+  "description": "MAC address handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/macaddress.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "mac",
+    "address",
+    "low",
+    "level",
+    "lib"
+  ],
+  "devDependencies": {
+    "allex_checkslowlevellib": "1.x",
+    "chai": "3.x"
+  },
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/macaddress/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/macaddress#readme"
+}
